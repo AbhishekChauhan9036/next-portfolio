@@ -20,16 +20,6 @@
     }
   },
   {
-    "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
-    "category": "basicweb",
-    "links": {
-      "view": "https://coruscating-dusk-402eb5.netlify.app/",
-      "code": "https://github.com/AbhishekChauhan9036/next-portfolio"
-    }
-  },
-  {
     "name": "Song PlayList App",
     "desc": ".",
     "image": "foodicious",
@@ -43,10 +33,20 @@
     "name": "Open To Intern",
     "desc": "Developed a backend for a website where interns can apply forinternships..",
     "image": "foodwebsite",
-    "category": "webbasicwebp",
+    "category": "basicweb",
     "links": {
       "view": "https://github.com/AbhishekChauhan9036/Open-to-Intern-Project-Requirement",
       "code": "https://github.com/AbhishekChauhan9036/Open-to-Intern-Project-Requirement"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
     }
   }
 ]
