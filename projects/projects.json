@@ -1,7 +1,7 @@
 [
   {
     "name": "Instagram Backend Clone",
-    "desc": "Backend Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "desc": "Backend Instagram clone built using Node,Express & MongoDB and realtime chat with the help of socket.iO",
     "image": "instagrammern",
     "category": "mern",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Song PlayList App",
-    "desc": ".",
+    "desc": "Basic Song Playlist App for better understaning of Object oriented design.",
     "image": "foodicious",
     "category": "basicweb",
     "links": {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Open To Intern",
-    "desc": "Developed a backend for a website where interns can apply forinternships..",
+    "desc": "Developed a backend for a website where interns can apply for internships.",
     "image": "foodwebsite",
     "category": "basicweb",
     "links": {
